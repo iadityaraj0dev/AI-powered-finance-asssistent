@@ -1,1 +1,1 @@
-# AI-powered-finance-asssistent
+# AI-powered-finance-asssistant
